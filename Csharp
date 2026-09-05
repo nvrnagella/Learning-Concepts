@@ -1,1 +1,9 @@
+There are just two professional C# naming corrections I'd like you to make:
 
+showHeader() → ShowHeader()
+
+and:
+
+totalMinutes() → CalculateTotalMinutes()
+
+C# methods conventionally use PascalCase. We'll follow industry conventions from the beginning.
